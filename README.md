@@ -1,7 +1,8 @@
 # open_gis_lab2
 
-#Lab 2 map of coffee shops in Vienna, Austria
-#PARAMETERS:
+# Lab 2 map of coffee shops in Vienna, Austria
+
+# PARAMETERS:
   #ll: 48.214,16.358
   #radius: 700
   #categories: 13034,13035,13038
