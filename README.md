@@ -1,6 +1,6 @@
-# open_gis_lab2
+# open_gis_lab2: 
 
-# Lab 2 map of coffee shops in Vienna, Austria
+# Map of coffee shops  within 700m form NIG in Vienna, Austria
 
 # PARAMETERS:
   #ll: 48.214,16.358
